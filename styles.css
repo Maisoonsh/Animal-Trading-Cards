@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+body{
+  font-family: serif;
+  font-size: 12px;
+  color: #09352D;
+}
+
+.card {
+  border: solid #908F8F thin;
+  width: 302px;
+  box-shadow: 5px 5px #C9C9C9;
+  padding: 10px;
+  margin: 0 auto;
+}
+.title {
+  border-style: hidden;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+.image-width {
+  width: 300px;
+  border: solid black thin;
+  margin-bottom: 5px;
+}
+
+.animal-info {
+  border: solid #908F8F thin;
+  padding: 0 10px;
+}
+
+.italic {
+  font-style: italic;
+  border-style: hidden;
+}
+
+.list-type {
+  list-style-type: none;
+  border-style: hidden;
+  padding-left: 0px;
+}
+
+.weight {
+  font-weight: bold;
+}
